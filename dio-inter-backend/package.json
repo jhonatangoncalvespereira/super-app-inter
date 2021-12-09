@@ -23,7 +23,9 @@
     "nodemon": "^2.0.15",
     "pg": "^8.7.1",
     "postgre": "^0.1.8",
+    "react-router-dom": "^6.0.2",
     "reflect-metadata": "^0.1.13",
+    "styled-components": "^5.3.3",
     "typeorm": "^0.2.41",
     "yarn": "^1.22.17"
   },
