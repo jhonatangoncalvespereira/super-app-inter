@@ -56,9 +56,6 @@ As seguintes ferramentas estão sendo usadas na construção do projeto:
 - [Nodemon][nodemon]
 - [Crypto-JS][cryptojs]
 - [express-async-erros][expresserrors]
-- [Vscode][vscode]
-
-Feito por Jeandson Tenorio 👋🏽 [Contato!](https://www.linkedin.com/in/jeandson/)
 
 [react]: https://pt-br.reactjs.org/
 [styled]: https://styled-components.com/
