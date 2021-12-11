@@ -58,7 +58,7 @@ As seguintes ferramentas estão sendo usadas na construção do projeto:
 - [express-async-erros][expresserrors]
 - [Vscode][vscode]
 
-Feito por Jeandson Tenorio 👋🏽 [Contato!](https://www.linkedin.com/in/jeandson/)
+ [Contato!](https://www.linkedin.com/in/jhonatangoncalvespereira/)
 
 [react]: https://pt-br.reactjs.org/
 [styled]: https://styled-components.com/
